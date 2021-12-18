@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="comma">,\u0020 </string>
+    <string name="lat">Lat :\u0020 </string>
+    <string name="lng">, Lng :\u0020 </string>
+    <string name="user_list">User Lists</string>
+</resources>
